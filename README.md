@@ -40,7 +40,11 @@ datetime <br/><br/>
 
 > **PREVIEW**
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92809543/153978289-1973cdf3-b29f-46cd-8601-8a5fcf39cf91.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92809543/153978289-1973cdf3-b29f-46cd-8601-8a5fcf39cf91.gif)<br/><br/>
+**Dashboard Completo:**
+[LINK](https://app.powerbi.com/view?r=eyJrIjoiNGEzNjk0YzgtY2YwZS00ZjMwLWIyYzgtYmY4ODM1MDFhMzE5IiwidCI6ImU0ZjEzM2E5LTJhMTktNGRlZC1iOWU4LTQ5NWNhYTAzZmEwOSJ9)
+<br/><br/>
+
 
 > **BACKSTAGE**
 
