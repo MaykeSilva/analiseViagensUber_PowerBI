@@ -2,6 +2,9 @@
 
 # Análise de Viagens Aplicativo Uber
 
+**Dashboard Completo:**
+[LINK](https://app.powerbi.com/view?r=eyJrIjoiNGEzNjk0YzgtY2YwZS00ZjMwLWIyYzgtYmY4ODM1MDFhMzE5IiwidCI6ImU0ZjEzM2E5LTJhMTktNGRlZC1iOWU4LTQ5NWNhYTAzZmEwOSJ9)
+<br/><br/>
 > **OBJETIVO**
 
 Análise de viagens dos dados pessoais do aplicativo Uber. <br/>
@@ -11,7 +14,7 @@ Análise de viagens dos dados pessoais do aplicativo Uber. <br/>
 * Dia da semana com maiores solicitações;
 * Valor por tipo de serviço;
 * Quantidade total de corridas;
-* Quilometros percorridos e outros;<br/><br/>
+* Quilômetros percorridos e outros;<br/><br/>
 
 > **FONTE DE DADOS**
 
@@ -37,7 +40,8 @@ datetime <br/><br/>
 
 > **PREVIEW**
 
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/92809543/153978289-1973cdf3-b29f-46cd-8601-8a5fcf39cf91.gif)
 
 > **BACKSTAGE**
 
+![image](https://user-images.githubusercontent.com/92809543/153978654-190ff184-84d2-4717-ab34-e4f72121eca0.png)
